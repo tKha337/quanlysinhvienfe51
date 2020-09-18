@@ -31,7 +31,7 @@ var SinhVienService = function () {
         })
         return promise;
     }
-
+    // tinh1 nang tim kiem sinh vien
     this.timKiemSinhVien = function() {
         console.log('Chuc nang tim kiem sinh vien');
         return '';
